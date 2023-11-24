@@ -1,3 +1,138 @@
-h1{
-    color: red;
-}
+/* box dimension */
+
+     /* div
+     {height: 200px;
+     width: 200px;
+     background-color: #bbbbaa;} */
+
+/* limiting width */ 
+     
+     /* td.description {
+     min-width: 450px;
+     max-width: 650px;
+     text-align: left;
+     padding: 5px;
+     margin: 0px;} */
+
+ /* limiting height */
+     /* h2, p {
+     width: 400px;
+     font-size: 90%;
+     line-height: 1.2em;}
+     h2 {
+     color: #0088dd;
+     border-bottom: 1px solid #0088dd;}
+     p {
+     min-height: 50px;
+     max-height: 30px;} */
+
+/* overflow */
+     /* p.one { 
+     max-height: 20px;
+     border: 1px solid red;     
+     overflow: hidden;}
+     p.two { 
+     max-height: 40px;
+     border: 1px solid red;     
+     overflow: scroll;} */
+     
+/* border width */
+     /* p{
+     border-style: solid ;
+     border-width: 1px 2px 3px 4px; 
+
+     } */
+
+/*  border style */
+
+     /* p.one {border-style: solid;}
+     p.two {border-style: dotted;}
+     p.three {border-style: dashed;}
+     p.four {border-style: double;}
+     p.five {border-style: groove;}
+     p.six {border-style: ridge;}
+     p.seven {border-style: inset;}
+     p.eight {border-style: outset;} */
+
+/* border color */
+     /* p.one {
+     border-style: solid;
+     border-color: #0088dd;}
+     p.two {
+     border-style: solid;
+     border-color: #bbbbaa #111111 #ee3e80 #0088dd;} */
+
+/* padding */
+     /* p{
+     border: 2px solid red;     
+     padding: 40px;
+     }
+     p#example{
+          border: 3px solid red;
+          padding: 10px 20px 30px 100px;
+     } */
+
+/* margin */
+     /* p{
+     border: 2px solid red;
+     margin: 40px;     
+     } */
+
+/* Change inline block */
+    /* li{
+    display: inline; 
+    margin-right: 10px;
+    }
+    li.coming-soon{
+     display: none;
+    } */
+
+/* hiding boxes */
+    /* li{
+     display: inline; 
+     margin-right: 10px;
+     }
+     li.coming-soon{
+      visibility: hidden;; 
+    } */
+
+/* border images */
+    /* .one{
+     border: 20px solid transparent;
+     padding: 15px;
+     border-image: url(./images/connect-the-dots.png) 30 round;
+    } */
+
+/* box shadow */
+     /* p{
+     width: 200px;
+     box-shadow: 5px 5px 5px 5px red;
+     } */
+
+/* boder radius */
+     /* p{
+     width: 200px;
+     border: 2px solid white;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 20px; 
+     border-radius: 20px;  
+     background-color: black;
+     color: white;  
+     } */
+
+/* ellipitcal shapes */
+     /* p{
+          width: 200px;
+          height: 200px;
+          background-color: black;
+          color: white;     
+          border-radius: 50px; 
+     } */
+
+     img{
+          width: 200px;
+          height: 200px;
+          border: 2px solid black;
+          border-radius: 50%;
+     }
